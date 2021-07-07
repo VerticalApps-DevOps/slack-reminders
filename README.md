@@ -2,10 +2,10 @@
 
 Full Virtual Stand-up reminder:
 ```
-/remind #uscisrpa @channel Answer the following questions:
-1. Where are you working from?
-2. What are you working on?
-3. Do you have any questions or concerns?” at 9AM every weekday
+/remind #uscisrpa "Answer the following questions @channel:
+1. What are you working on?
+2. Do you have any questions or concerns?
+3. Where are you working from?” at 9AM every weekday
 ```
 Quarantine Stand-up reminder:
 ```
